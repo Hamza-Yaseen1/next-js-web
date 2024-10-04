@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #000;
+    color: aliceblue;
+    list-style-type: none;
+    padding: 20px;
+    font-size: larger;
+    cursor: pointer;
+    
+  }
+
+  li:hover{
+  color: #a1a1a1;
+  text-decoration: underline;
+  }
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+} */
